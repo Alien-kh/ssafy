@@ -37,9 +37,13 @@ hello# 안녕하세요!
 print('Hello')
 ```
 
-![image.png](imgs\img.png)
+![image.png](.\imgs\img.png)
 파일 자체에 이미지가 들어가는게 아닙니다! 참조만 합니다.
 만약에 이미지가 포함된 markdown을 제출하려면? 이미지도 같이 제출 해야 한다!
 그런데 경로는 작업한 컴퓨터에만 있는 경로인데? 이 경로는 '절대 경로'
 파일 제출을 README.md + image.jpg를 제출할건데... '상대 경로' 가 필요하다(README.md를 기준으로 )
 제출할 파일 README 을 기준으로 하는 위치를 알려주자.
+
+----
+
+[네이버](https://naver.com) 
